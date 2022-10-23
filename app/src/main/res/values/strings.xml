@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+    <string name="deskription_menu">deskription_menu</string>
+    <string name="bahan_bahan">bahan_bahan</string>
+    <string name="pakaian_cowok">pakaian_cowok</string>
+    <string name="price">price</string>
+    <string name="Harga">Harga</string>
+    <string name="Deskription_Zalora">Deskription_Zalora</string>
+    <string name="zalora_adalah_toko_online_fashion_dan_kecantikan">zalora_adalah_toko_online_fashion_dan_kecantikan</string>
+    <string name="KATEGORI">KATEGORI</string>
+</resources>
